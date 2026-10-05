@@ -2,16 +2,6 @@
 
 A beginner-friendly multimodal RAG (Retrieval-Augmented Generation) project that lets you upload PDFs, images, and audio files, index them locally, and ask grounded questions with inline source citations.
 
-## Author
-
-- Created by **Harshal More**
-- GitHub: [@HaRsH-2102](https://github.com/HaRsH-2102)
-
-## Copyright
-
-```text
-Copyright (c) 2026 Harshal More. All rights reserved.
-```
 
 ## What It Does
 
@@ -328,10 +318,3 @@ ffmpeg -version
 - Streaming answers in the UI
 - Authentication and multi-user collections
 
-## License
-
-This project is licensed as **All Rights Reserved**.
-
-No reuse, copying, modification, distribution, or commercial/non-commercial use is allowed without prior written permission from the author.
-
-See [LICENSE](./LICENSE) for details.
